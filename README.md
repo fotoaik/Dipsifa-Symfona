@@ -20,4 +20,4 @@
 ## ΤΥΠΟΣ ΜΑΘΗΣΙΑΚΟΥ ΑΝΤΙΚΕΙΜΕΝΟΥ
 έργο τέχνης, αναμετάδοση, εξερεύνηση, παρουσίαση, μάθημα, διδακτικό εγχειρίδιο
 
-*Τα δίψηφα σύμφωνα © 2023 by Φωτοπούλου Αικατερίνη is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*Τα δίψηφα σύμφωνα © 2023 by [Φωτοπούλου Αικατερίνη](https://fotoaik.eu/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
