@@ -1,7 +1,7 @@
 # Μαθαίνω τα δίψηφα σύμφωνα
-Flipbook: [Μαθαίνω τα δίψηφα σύμφωνα](https://fotoaik.eu/flipbooks/dipsifa/)
+Flipbook: [Μαθαίνω τα δίψηφα σύμφωνα](https://photodentro.edu.gr/v/item/ugc/8525/2901)
 
-Credits: [Photodentro](https://photodentro.edu.gr/v/item/ugc/8525/2901)
+Credits: [Photodentro](https://photodentro.edu.gr/ugc/r/8525/2901?locale=el#))
 
 ## ΠΕΡΙΓΡΑΦΗ
 Με αυτό το διαδραστικό flipbook, διδάσκονται τα δίψηφα σύμφωνα με τρόπο παιγνιώδη κι ευχάριστο. Οι μαθητές βλέπουν, ακούν το μαθησιακό αντικείμενο αλλά ταυτόχρονα εξασκούνται σε αυτό με quiz, κρυπτόλεξα κι αναγραμματισμούς.
