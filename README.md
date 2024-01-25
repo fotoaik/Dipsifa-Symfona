@@ -22,4 +22,4 @@ Credits: [Photodentro](https://photodentro.edu.gr/ugc/r/8525/2901?locale=el#)
 ## ΤΥΠΟΣ ΜΑΘΗΣΙΑΚΟΥ ΑΝΤΙΚΕΙΜΕΝΟΥ
 έργο τέχνης, αναμετάδοση, εξερεύνηση, παρουσίαση, μάθημα, διδακτικό εγχειρίδιο
 
-[Μαθαίνω τα δίψηφα σύμφωνα](https://photodentro.edu.gr/v/item/ugc/8525/2901) © 2023 by [Φωτοπούλου Αικατερίνη](https://photodentro.edu.gr/ugc/user?userID=4540) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+[Μαθαίνω τα δίψηφα σύμφωνα](https://photodentro.edu.gr/v/item/ugc/8525/2901) © 2023 by [Φωτοπούλου Αικατερίνη](https://photodentro.edu.gr/ugc/user?userID=4540) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
